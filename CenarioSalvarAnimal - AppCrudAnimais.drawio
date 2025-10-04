@@ -1,0 +1,42 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
+  <diagram name="Página-1" id="Hlv5W-1bQ4H_9xipCcj4">
+    <mxGraphModel dx="872" dy="447" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#A9C4EB" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="B6fQX8-n9wr9Vt72Ns8q-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="B6fQX8-n9wr9Vt72Ns8q-1" target="B6fQX8-n9wr9Vt72Ns8q-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B6fQX8-n9wr9Vt72Ns8q-1" value="Salvar Animal" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B6fQX8-n9wr9Vt72Ns8q-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="B6fQX8-n9wr9Vt72Ns8q-3" target="B6fQX8-n9wr9Vt72Ns8q-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B6fQX8-n9wr9Vt72Ns8q-3" value="Animal" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B6fQX8-n9wr9Vt72Ns8q-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="B6fQX8-n9wr9Vt72Ns8q-5" target="B6fQX8-n9wr9Vt72Ns8q-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B6fQX8-n9wr9Vt72Ns8q-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="B6fQX8-n9wr9Vt72Ns8q-5" target="B6fQX8-n9wr9Vt72Ns8q-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B6fQX8-n9wr9Vt72Ns8q-5" value="Salvou?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B6fQX8-n9wr9Vt72Ns8q-7" value="Retornar 404" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="182" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="Não" placeholders="1" name="Variable" id="B6fQX8-n9wr9Vt72Ns8q-9">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
+            <mxGeometry x="315" y="445" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="B6fQX8-n9wr9Vt72Ns8q-10" value="Retornar 201" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="543" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
