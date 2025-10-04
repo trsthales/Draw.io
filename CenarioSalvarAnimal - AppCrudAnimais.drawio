@@ -30,11 +30,17 @@
         </mxCell>
         <UserObject label="Não" placeholders="1" name="Variable" id="B6fQX8-n9wr9Vt72Ns8q-9">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
-            <mxGeometry x="315" y="445" width="80" height="20" as="geometry" />
+            <mxGeometry x="313" y="460" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="B6fQX8-n9wr9Vt72Ns8q-10" value="Retornar 201" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="543" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U7jSmVh1y5esGdXAPOYp-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="386" y="356" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U7jSmVh1y5esGdXAPOYp-2" value="Sim" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="455" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
