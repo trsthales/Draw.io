@@ -7,7 +7,7 @@
         <mxCell id="cTt_sQx9sdPtdVk4oGiI-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cTt_sQx9sdPtdVk4oGiI-25" target="cTt_sQx9sdPtdVk4oGiI-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cTt_sQx9sdPtdVk4oGiI-25" value="Salvar Animal" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="cTt_sQx9sdPtdVk4oGiI-25" value="Salvar Animal" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="352" y="169" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cTt_sQx9sdPtdVk4oGiI-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="cTt_sQx9sdPtdVk4oGiI-27" target="cTt_sQx9sdPtdVk4oGiI-25" edge="1">
